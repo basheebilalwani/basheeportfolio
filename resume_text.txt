@@ -1,0 +1,53 @@
+BASHEE BILAL
+Frontend Developer
++91-6005750621 | basheebilalwani@gmail.com | Jammu and Kashmir, India
+LinkedIn | GitHub | Portfolio
+
+PROFESSIONAL SUMMARY
+Frontend Developer with a Computer Science background and experience building responsive, feature-rich web applications using React.js, TypeScript, and JavaScript. Skilled in component-based architecture, state management, API integration, routing, and frontend testing. Experienced in developing interactive e-commerce platforms with complex business logic, reusable components, and responsive user interfaces.
+
+EDUCATION
+B.Tech. in Computer Science and Engineering | 2022 – 2026
+Central University of Kashmir, Ganderbal, Kashmir
+CGPA: 8.48/10
+
+EXPERIENCE
+Frontend Developer Contributor
+CodeSquad Community Website | Central University of Kashmir
+• Contributed to the development of the CodeSquad community website by building its homepage and additional frontend pages.
+• Developed webpage layouts and interactive UI elements using HTML, CSS, and JavaScript.
+• Collaborated on frontend development for a university technical community platform.
+
+PROJECTS
+
+Rentique – Luxury Fashion Rental Marketplace
+React 18 | TypeScript | Tailwind CSS v3 | TanStack Query | Vite | Recharts | Vitest
+GitHub: https://github.com/basheebilalwani/rentique.git
+Live: https://rentique-rho.vercel.app/
+• Engineered a luxury fashion rental marketplace using React 18 and TypeScript, implementing modular architecture and separating asynchronous server state with TanStack Query from client state using React Context API.
+• Developed date-range availability and booking engines with mathematical interval overlap detection, automated one-day cleaning buffers, multi-tier rental discounts, and refundable deposit calculations.
+• Implemented URL-synchronized catalogue filtering with debounced search, alongside persistent customer dashboards, wishlist management, and booking cancellation workflows.
+• Built an administrative dashboard with role-based route protection and inventory management; established GitHub Actions CI and validated functionality through 34 automated tests using Vitest and React Testing Library.
+
+Auré – Clean Beauty E-Commerce Platform
+React 19 | TypeScript | Tailwind CSS | Vite | React Router | Context API
+GitHub: https://github.com/basheebilalwani/aure.git
+Live: https://aure-omega.vercel.app/
+• Developed an interactive cosmetics storefront featuring 36 product variants, multi-attribute filtering, debounced search, and URL-synchronized catalogue navigation using React Router.
+• Built an interactive shade selection system synchronizing product swatches, undertones, stock availability, and variant imagery across complexion and lip products.
+• Implemented persistent cart management using React Context and localStorage, featuring a dynamic free-shipping progress indicator, promotional rewards, and a three-step routine builder with automatic 15% bundle discount calculations.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Frontend Development: React.js, JSX, React Hooks, Functional Components, Component-Based Architecture, React Router
+Styling: Tailwind CSS, CSS Flexbox, CSS Grid, Responsive Web Design, Media Queries
+State Management: React Context API, TanStack Query, Props, localStorage
+Web Technologies: REST API Integration, Axios, Fetch API, Promises, Async/Await, DOM Manipulation, Event Handling, Form Validation, URL Search Parameters
+Testing & Data Visualization: Vitest, React Testing Library, Recharts
+Development Tools: Git, GitHub, VS Code, Chrome DevTools, npm, Vite
+
+LEADERSHIP EXPERIENCE
+Lead – AI/ML Club
+Central University of Kashmir | Student Technical Community
+• Directed club activities, including study sessions and hands-on technical workshops.
+• Guided student teams in developing projects using Python, TensorFlow, and Scikit-learn.
